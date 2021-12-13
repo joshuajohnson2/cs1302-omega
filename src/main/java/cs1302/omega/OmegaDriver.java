@@ -2,6 +2,7 @@ package cs1302.omega;
 
 import javafx.application.Application;
 import cs1302.game.*;
+
 /**
  * Driver for the {@code OmegaApp} class.
  */
